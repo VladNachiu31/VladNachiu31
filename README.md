@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+I'm Vlad, currently working as a Lead Developer at Penspen | Theia, where I focus on building robust, scalable solutions with Python as my primary tech stack. I’m deeply passionate about Python and all things related!
+
+- 🔭 Current Project: Developing a highly scalable, low-latency ingestion pipeline capable of processing over 2 million rows.
+- 🌱 Learning: Exploring advanced AI techniques and integrating them with cloud platforms.
+- 🤔 Looking for Help With: Product design ideas for upcoming releases.
+- 💬 Ask Me About: Python, backend development, and scalable architecture.
+- 📫 Reach Me At: nachiu.vlad@yahoo.com
+- 😄 Pronouns: He/Him
+
 <!--
 **VladNachiu31/VladNachiu31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
